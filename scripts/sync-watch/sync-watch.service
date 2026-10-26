@@ -1,0 +1,6 @@
+[Unit]
+Description=Alerte telephone si une synchro est en echec depuis 15 min
+[Service]
+Type=oneshot
+# Adaptez le chemin : utilisateur systemd (systemctl --user) ou service systeme avec User=
+ExecStart=/usr/bin/python3 %h/dossiers-engine/scripts/sync-watch/sync-watch.py

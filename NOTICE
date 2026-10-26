@@ -1,0 +1,10 @@
+dossiers-engine
+Copyright 2026 Anthony Hunt
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+Documentation (README.md, docs/), the example dossiers (examples/) and the agent skills (skills/) are licensed under
+the Creative Commons Attribution 4.0 International license (see LICENSE-docs).
+
+Third-party software used (installed from PyPI or pulled as images, not redistributed here):
+  PyYAML (MIT), icalendar (BSD-2-Clause), google-api-python-client (Apache-2.0), google-auth (Apache-2.0),
+  google-auth-oauthlib (Apache-2.0), ntfy server image binwiederhier/ntfy (Apache-2.0 / GPL-2.0, run as a separate service).
