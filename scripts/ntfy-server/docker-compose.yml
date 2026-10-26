@@ -1,0 +1,18 @@
+# Serveur ntfy auto-heberge (notifications et alarmes sur le telephone).
+# Derriere un proxy HTTPS (Caddy, Traefik, nginx) qui envoie ntfy.example.org vers le port 8080 de cette machine.
+# Premiers pas : docker compose up -d ; puis creez un utilisateur et un jeton :
+#   docker compose exec ntfy ntfy user add --role=admin moi
+#   docker compose exec ntfy ntfy token add moi          -> a mettre dans ntfy.env (NTFY_TOKEN)
+services:
+  ntfy:
+    image: binwiederhier/ntfy:latest
+    command: serve
+    restart: unless-stopped
+    environment:
+      TZ: UTC
+    volumes:
+      - ./etc:/etc/ntfy
+      - ./cache:/var/cache/ntfy
+      - ./lib:/var/lib/ntfy
+    ports:
+      - "127.0.0.1:8080:80"

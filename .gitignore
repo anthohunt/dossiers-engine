@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+ntfy.env
+token.json
+client_secret*.json
+scripts/renames.json
