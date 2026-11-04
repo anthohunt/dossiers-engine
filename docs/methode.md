@@ -1,4 +1,6 @@
-# La méthode des dossiers
+# The dossier method
+
+> This document is in French.
 
 Une mémoire par sujet, lisible par un assistant d'IA avant de l'être par une personne : un fichier Markdown par sujet,
 versionné dans git, synchronisé entre vos machines.

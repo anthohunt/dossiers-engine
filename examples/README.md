@@ -1,4 +1,6 @@
-# Dossiers d'exemple (fictifs)
+# Sample dossiers (fictional)
+
+> This document is in French.
 
 Trois dossiers inventés pour essayer le moteur : un projet (`project_`), une fiche de référence (`reference_`) et une
 préférence (`feedback_`), plus le journal du projet. Copiez-les dans votre propre dépôt de dossiers :
