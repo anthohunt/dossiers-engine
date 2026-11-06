@@ -40,7 +40,7 @@ never publish them. Fictional examples are in `examples/`.
 - `pip install PyYAML` for the index, the normaliser and the sync.
 - For the projector: `pip install -r scripts/projector/requirements.txt` (Google API client, `icalendar`) and a Google
   Cloud project with the **Tasks** and **Calendar** APIs enabled and an OAuth client of type *Desktop app*.
-- Optional: a [ntfy](https://docs.ntfy.sh) server and `curl` for phone alarms; [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
+- Optional: a [ntfy](https://docs.ntfy.sh) server and `curl` for phone alarms; [Claude Code](https://code.claude.com/docs/en/overview)
   for the two skills (a separate Anthropic product).
 
 ## Quick start
@@ -103,3 +103,7 @@ assistant's context (for Claude Code: import it from your `CLAUDE.md`). The skil
 - Documentation, example dossiers and skills (`README.md`, `docs/`, `examples/`, `skills/`): CC BY 4.0 (`LICENSE-docs`).
 - Third-party dependencies are installed from PyPI, not redistributed; see `NOTICE`. The ntfy server is a separate
   service (Apache-2.0 / GPL-2.0 dual license).
+
+---
+
+**Anthony Hunt** · [Project page on ingevision.cloud](https://ingevision.cloud/?lang=en&p=dossiers) · [LinkedIn](https://www.linkedin.com/in/anthony-hunt-3948a9196) · [GitHub profile](https://github.com/anthohunt)
