@@ -6,7 +6,7 @@
 
 [![Sorties réelles du moteur sur un dossier inventé : le schéma s'allume flèche par flèche (cliquer pour la vidéo complète)](docs/demo.gif)](https://drive.google.com/file/d/1TD0ZpmaiLV1dK_TgPJ7qHXy2XrjrxHXu/view)
 
-<details><summary>Animation en français</summary>
+<details><summary>Version française</summary>
 
 [![Sorties réelles du moteur sur un dossier inventé : le schéma s'allume flèche par flèche (cliquer pour la vidéo complète)](docs/demo.fr.gif)](https://drive.google.com/file/d/1BP5z1Gyu-pgT1-gI9l1OK-wTsgKHSvEB/view)
 
