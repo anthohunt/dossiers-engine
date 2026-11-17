@@ -20,6 +20,12 @@
 
 ![Architecture de dossiers-engine : l'assistant écrit un dossier ; la synchro le commite, refait l'index, lance le projecteur vers Google Tasks, l'agenda et le téléphone, et pousse vers un dépôt distant privé que les autres machines tirent ; la session suivante lit l'index](docs/architecture.svg)
 
+<details><summary>Diagramme en français</summary>
+
+![Architecture de dossiers-engine : l'assistant écrit un dossier ; la synchro le commite, refait l'index, lance le projecteur vers Google Tasks, l'agenda et le téléphone, et pousse vers un dépôt distant privé que les autres machines tirent ; la session suivante lit l'index](docs/architecture.fr.svg)
+
+</details>
+
 ## Démarrage
 
 ```bash

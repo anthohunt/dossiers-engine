@@ -20,7 +20,11 @@
 
 ![dossiers-engine architecture: the assistant writes a dossier; the sync commits it, rebuilds the index, runs the projector towards Google Tasks, Calendar and the phone, and pushes to a private remote that other machines pull; the next session reads the index](docs/architecture.svg)
 
-*Diagram and animation labels are in French.*
+<details><summary>French version</summary>
+
+![Architecture de dossiers-engine : l'assistant écrit un dossier ; la synchro le commite, refait l'index, lance le projecteur vers Google Tasks, l'agenda et le téléphone, et pousse vers un dépôt distant privé que les autres machines tirent ; la session suivante lit l'index](docs/architecture.fr.svg)
+
+</details>
 
 ## Quick start
 
