@@ -4,15 +4,15 @@
 
 **One Markdown file per subject, in a git repository, is an AI assistant's long-term memory.** A sync loop keeps every machine up to date.
 
-[![Real outputs of the engine on an invented dossier: the diagram lights up arrow by arrow (click for the full video)](docs/demo.gif)](https://drive.google.com/file/d/1TD0ZpmaiLV1dK_TgPJ7qHXy2XrjrxHXu/view)
+![Real outputs of the engine on an invented dossier: the diagram lights up arrow by arrow](docs/demo.gif)
 
 <details><summary>French version</summary>
 
-[![Sorties réelles du moteur sur un dossier inventé : le schéma s'allume flèche par flèche (cliquer pour la vidéo complète)](docs/demo.fr.gif)](https://drive.google.com/file/d/1BP5z1Gyu-pgT1-gI9l1OK-wTsgKHSvEB/view)
+![Sorties réelles du moteur sur un dossier inventé : le schéma s'allume flèche par flèche](docs/demo.fr.gif)
 
 </details>
 
-*Real outputs from throwaway repositories, on an invented dossier; projector in dry-run, no Google account. [Full video (1:14)](https://drive.google.com/file/d/1TD0ZpmaiLV1dK_TgPJ7qHXy2XrjrxHXu/view)*
+*Real outputs from throwaway repositories, on an invented dossier; projector in dry-run, no Google account.*
 
 ## Using it
 

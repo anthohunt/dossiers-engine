@@ -4,15 +4,15 @@
 
 **Un fichier Markdown par sujet, dans un dépôt git, sert de mémoire longue à un assistant d'IA.** Une synchro tient chaque machine à jour.
 
-[![Sorties réelles du moteur sur un dossier inventé : le schéma s'allume flèche par flèche (cliquer pour la vidéo complète)](docs/demo.gif)](https://drive.google.com/file/d/1TD0ZpmaiLV1dK_TgPJ7qHXy2XrjrxHXu/view)
+![Sorties réelles du moteur sur un dossier inventé : le schéma s'allume flèche par flèche](docs/demo.gif)
 
 <details><summary>Version française</summary>
 
-[![Sorties réelles du moteur sur un dossier inventé : le schéma s'allume flèche par flèche (cliquer pour la vidéo complète)](docs/demo.fr.gif)](https://drive.google.com/file/d/1BP5z1Gyu-pgT1-gI9l1OK-wTsgKHSvEB/view)
+![Sorties réelles du moteur sur un dossier inventé : le schéma s'allume flèche par flèche](docs/demo.fr.gif)
 
 </details>
 
-*Sorties réelles sur des dépôts jetables, avec un dossier inventé ; projecteur à blanc, sans compte Google. [Vidéo complète (1 min 14)](https://drive.google.com/file/d/1BP5z1Gyu-pgT1-gI9l1OK-wTsgKHSvEB/view)*
+*Sorties réelles sur des dépôts jetables, avec un dossier inventé ; projecteur à blanc, sans compte Google.*
 
 ## Utilisation
 
